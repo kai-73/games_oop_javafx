@@ -1,6 +1,4 @@
 package ru.job4j.chess.firuges.black;
-import junit.framework.TestCase;
-import org.junit.Assert;
 import org.junit.Test;
 import ru.job4j.chess.firuges.Cell;
 import ru.job4j.chess.firuges.Figure;
