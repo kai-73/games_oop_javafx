@@ -44,7 +44,8 @@ public class BishopBlackTest {
 
     @Test(expected = ImpossibleMoveException.class)
     public void whenIsDiagonalBishopBlackNoncorrect() {
-        BishopBlack bishopBlack = new BishopBlack(Cell.C1);
-        bishopBlack.way(Cell.G8);
+        /* BishopBlack bishopBlack = new BishopBlack(Cell.C1); */
+        /* bishopBlack.way(Cell.G8); */
+        new BishopBlack(Cell.C1).way(Cell.G8);
     }
 }
