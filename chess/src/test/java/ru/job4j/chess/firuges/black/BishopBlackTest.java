@@ -8,7 +8,6 @@ import ru.job4j.chess.firuges.Figure;
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 
-
 public class BishopBlackTest {
 
     @Test
